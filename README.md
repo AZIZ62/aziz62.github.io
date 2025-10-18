@@ -11,6 +11,8 @@ A long-term learner who is always passionate about solving business problems thr
 - **Email**: azizhakim62@gmail.com
 - **LinkedIn**: [muhammad-azizul-hakim-974396191](https://www.linkedin.com/in/muhammad-azizul-hakim-974396191)
 - **Instagram**: [@azizhakim62](https://www.instagram.com/azizhakim62/)
+- **Continuous Improvement Platform**: [bit.ly/4ot5lyx](https://bit.ly/4ot5lyx)
+- **GitHub Portfolio**: [github.com/AZIZ62](https://github.com/AZIZ62)
 
 ---
 
@@ -24,6 +26,8 @@ A long-term learner who is always passionate about solving business problems thr
 - Monitor logistics costs, identifying opportunities for cost reduction and mitigation
 - Lead, support, and facilitate projects, process improvements and transformations
 - Compile standard operating procedures, work instructions, and one-point lessons
+- Maintain communication and build relationship with all relevant stakeholders
+- Prepare reports and analyze data including performance, trend, fulfillment, etc with Tableau and Power BI
 
 ### **Logistic Manager - Domestic Distribution**
 **PT Pos Indonesia** | Timika - Jayapura | 2017 – 2022
@@ -114,3 +118,7 @@ A long-term learner who is always passionate about solving business problems thr
 Supervisor Mills Logistic  
 Sinar Mas APP Group  
 +62 823-1727-1611
+
+---
+
+*Last updated: January 2025*
