@@ -28,6 +28,7 @@ A long-term learner who is always passionate about solving business problems thr
 - Compile standard operating procedures, work instructions, and one-point lessons
 - Maintain communication and build relationship with all relevant stakeholders
 - Prepare reports and analyze data including performance, trend, fulfillment, etc with Tableau and Power BI
+- Technical Training: Served as the Power BI Class Trainer for the Supply Chain teams across Pindo Deli Karawang and Indah Kiat Karawang mills to upscale internal data literacy and dashboard creation capabilities
 
 ### **Logistic Manager - Domestic Distribution**
 **PT Pos Indonesia** | Timika - Jayapura | 2017 – 2022
@@ -48,6 +49,7 @@ A long-term learner who is always passionate about solving business problems thr
 - **SGA End to Year 2024** > 2 Gold Medalist - *Optimize Performance EMKL Top1 from 23% up to 53%*
 - **SDA End to Year 2024** > Gold Medalist
 - **Cross Sharing & Cross Learning** > Winner Inter Mill CSCL Competition 2024
+- **JDI Intramill Competition Pindo Deli Karawang 2026** > 1st Winner -Develop Power BI Monitoring Dashboard Analytics to Improve Operational Efficiency
 
 ---
 
