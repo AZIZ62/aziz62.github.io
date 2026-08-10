@@ -17,41 +17,32 @@ A long-term learner who is always passionate about solving business problems thr
 ---
 
 ## 💼 Professional Experience
-
-### **Specialist Process Improvement - Mill Logistic**
-**Sinar Mas Asia Pulp and Paper** | PD Karawang Mills | Mar 2023 - Present
-- Analyze, design, and implement business process improvements to increase efficiency, productivity, quality, and reduce waste
-- Conduct process mapping to understand current workflows and identify bottlenecks
-- Collect and analyze data to evaluate process performance using Tableau and Power BI
-- Monitor logistics costs, identifying opportunities for cost reduction and mitigation
-- Lead, support, and facilitate projects, process improvements and transformations
-- Compile standard operating procedures, work instructions, and one-point lessons
-- Maintain communication and build relationship with all relevant stakeholders
-- Prepare reports and analyze data including performance, trend, fulfillment, etc with Tableau and Power BI
-- Technical Training: Served as the Power BI Class Trainer for the Supply Chain teams across Pindo Deli Karawang and Indah Kiat Karawang mills to upscale internal data literacy and dashboard creation capabilities
-
 ### **Logistic Manager - Domestic Distribution**
 **PT Pos Indonesia** | Timika - Jayapura | 2017 – 2022
-- Plan, implement and control pre-delivery, delivery and postal mail and parcel activities
-- Achieve key performance indicators set by the Company
+•	Operations & Facilities Management: Supervised asset maintenance, vehicle fleets, office facilities, IT utilization, HR administration, and secretarial duties.
+•	Logistics & Distribution: Planned and controlled the complete mail/parcel delivery cycle (pre-shipping, shipping, post-shipping) for both incoming and outgoing processes according to company quality standards.
+•	Supply Chain Management (Telkomsel): Managed stock counts (stock opname), network pattern optimization, transport modes, indoor processing, and data warehousing.
+•	Sales & Customer Service: Controlled service sales across all sales points, led the customer service team, handled complaints, and executed promotions to achieve revenue targets.
+
 
 ### **Management Trainee**
 **Pos Indonesia** | Bandung | 2016 - 2017
 
 ---
 
-## 🏆 Achievements
+### **Specialist Process Improvement - Mill Logistic**
+**Sinar Mas Asia Pulp and Paper | PD Karawang Mills | Mar 2023 - Present
+•	Export Container Governance: Oversee and audit export contract data and addendums in SAP, ensuring strict process control and policy compliance across weekly addendum summaries and monthly Drewry Reports.
+•	Market Intelligence Oversight: Monitor global shipping trends, governing the preparation of Friday market readings and strategic Market Outlooks to guide leadership decisions in MBOS and Business Review (BR) sessions.
+•	Vendor Cost Control: Standardize and supervise the verification of liner local charges from external vendors, preventing cost leakage and ensuring alignment with approved corporate rates.
+•	Import Procurement Oversight: Govern the execution of Purchase Requests to the Strategic Procurement Department (SPD) and monitor the operational flow of Liner Service Distribution (LSD).
+•	Proposal Audit & Validation: Audit and validate Container Freight Agreement System (CFAS) and addendum proposals, while strategically controlling feeder rates to maintain budget integrity.
+•	Export Pre-Shipment Control: Manage and enforce compliance in pre-shipment documentation workflows (including V-Legal, PEB, and VGM registration tracking), mitigating operational risks and customs clearance delays.
+•	Process Improvement Implementation: Analyze, design, and implement business process improvements to increase operational efficiency, maximize productivity, and eliminate manual bottlenecks.
+•	Strategic Reporting & BI Solutions: Direct data tracking mechanisms by developing interactive Power BI and Tableau dashboards to evaluate fulfillment trends, replacing slow manual monitoring methods.
+•	Cross-Functional Coordination: Lead cross-functional alignment across Mill and Business Units (BU), tracking weekly action items, minutes of meetings (MoM), and institutionalizing knowledge via standardized onboarding modules.
+•	Talent Upskilling: Spearhead technical training as the Power BI Class Trainer across multiple mills to uplift data literacy and self-service analytics capabilities within the Supply Chain division.
 
-### **Sinar Mas APP Awards**
-- **SDA Result Competition** > 1st Winner - *Reduce Logistic Cost*
-- **SGA Design Competition** > 1st Winner - *Reduce Repo Cost*
-- **Logistic Conference 2024** > 1st Winner - *Big Mill Best Performance*
-- **SGA End to Year 2024** > 2 Gold Medalist - *Optimize Performance EMKL Top1 from 23% up to 53%*
-- **SDA End to Year 2024** > Gold Medalist
-- **Cross Sharing & Cross Learning** > Winner Inter Mill CSCL Competition 2024
-- **JDI Intramill Competition Pindo Deli Karawang 2026** > 1st Winner -Develop Power BI Monitoring Dashboard Analytics to Improve Operational Efficiency
-
----
 
 ## 🎓 Education
 
@@ -64,9 +55,14 @@ A long-term learner who is always passionate about solving business problems thr
 - Vice President of the Student Council
 
 ### **Self-Development**
-- Business Model Canvas (BMC) Course
-- Cost Benefit Analysis Course
-- MBOS for MBOS Course
+•	Business Model Canvas (BMC) Course
+•	Lean Six Sigma Green Belt (LSSGB)
+•	Cost Benefit Analysis Course
+•	Root Cause Analysis (RCA) Specialist Course
+•	Supply Chain Risk Management (SCRM)
+•	Advanced DAX & Data Modeling in Power BI
+•	Supply Chain Analytics
+•	MBOS for MBOS Course
 
 ---
 
@@ -123,4 +119,22 @@ Sinar Mas APP Group
 
 ---
 
-*Last updated: January 2025*
+## 🏆 Achievements
+
+### **Sinar Mas APP Awards**
+•	SDA Result Competition > 1st Winner  
+Project: Reduce Logistic Cost
+•	SGA Design Competition > 1st Winner 
+Project: Reduce Repo Cost
+•	Cross Sharing & Cross Learning (Sharing 12 Event, Learning 15 Event : 
+Winner Inter Mill CSCL Competition in 2024, CSCL Reward Scheme 2024 Supporting Category) 
+•	SGA End to Year 2024 Competition >  2 Gold Medalist
+Optimize Performance EMKL Top1 from 23% up to 53%
+Auto Send VGM to Forwarder by Email
+•	SDA End to Year 2024 Competition >  Gold Medalist
+•	Logistic Conference 2024 >  1st Winne Big Mill Best Performance
+•	JDI Intramill Competition Pindo Deli Karawang 2026** > 1st Winner - Develop Power BI Monitoring Dashboard Analytics to Improve Operational Efficiency
+•	Winner JDI class A “Pengaturan Closing Time untuk Reduce extra cost from 5604 USD/MT to 5225 USD/MT Dengan Early Stacking Support KPI Logistic”
+•	Winner JDI class A “Minimize Extra Costs By Optimize Shipment To Support Delivery Pindo Deli” 
+•	Winner JDI class A “Shipment Evenness Improvement through Power BI Daily Monitoring”
+
