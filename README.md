@@ -19,10 +19,10 @@ A long-term learner who is always passionate about solving business problems thr
 ## 💼 Professional Experience
 ### **Logistic Manager - Domestic Distribution**
 **PT Pos Indonesia** | Timika - Jayapura | 2017 – 2022
--•	Operations & Facilities Management: Supervised asset maintenance, vehicle fleets, office facilities, IT utilization, HR administration, and secretarial duties.
--•	Logistics & Distribution: Planned and controlled the complete mail/parcel delivery cycle (pre-shipping, shipping, post-shipping) for both incoming and outgoing processes according to company quality standards.
--•	Supply Chain Management (Telkomsel): Managed stock counts (stock opname), network pattern optimization, transport modes, indoor processing, and data warehousing.
--•	Sales & Customer Service: Controlled service sales across all sales points, led the customer service team, handled complaints, and executed promotions to achieve revenue targets.
+- •	Operations & Facilities Management: Supervised asset maintenance, vehicle fleets, office facilities, IT utilization, HR administration, and secretarial duties.
+- •	Logistics & Distribution: Planned and controlled the complete mail/parcel delivery cycle (pre-shipping, shipping, post-shipping) for both incoming and outgoing processes according to company quality standards.
+- •	Supply Chain Management (Telkomsel): Managed stock counts (stock opname), network pattern optimization, transport modes, indoor processing, and data warehousing.
+- •	Sales & Customer Service: Controlled service sales across all sales points, led the customer service team, handled complaints, and executed promotions to achieve revenue targets.
 
 
 ### **Management Trainee**
