@@ -1,7 +1,7 @@
 # Muhammad Azizul Hakim
 
 **Logistics & Process Improvement Specialist**  
-A long-term learner who is always passionate about solving business problems through a data-driven approach and continuous improvement principles. Experienced in logistics & supply chain with expertise in performance reporting, process improvement, operational excellence, and transformation.
+A long-term learner and award-winning professional passionate about solving complex business problems through a data-driven approach and continuous improvement principles. Experienced in logistics & supply chain with proven expertise in global export-import container governance, strategic vessel and trucking planning, operational excellence, and digital transformation. Adept at leveraging Business Intelligence (Power BI & Tableau) to audit workflows, eliminate manual bottlenecks, and drive measurable efficiency.
 
 ---
 
