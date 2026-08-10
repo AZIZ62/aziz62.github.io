@@ -134,7 +134,15 @@ Auto Send VGM to Forwarder by Email
 - •	SDA End to Year 2024 Competition >  Gold Medalist
 - •	Logistic Conference 2024 >  1st Winne Big Mill Best Performance
 - •	JDI Intramill Competition Pindo Deli Karawang 2026** > 1st Winner - Develop Power BI Monitoring Dashboard Analytics to Improve Operational Efficiency
+- •	Winner JDI class B “Pengaturan Closing Time untuk  Reduce extra cost from 5604 USD/MT to 5225 USD/MT Dengan  Early Stacking  Support KPI Logistic”
+- •	Winner JDI class B “Pengaturan Closing Time untuk  Reduce extra cost from 5604 USD/MT to 5225 USD/MT Dengan  Early Stacking  Support KPI Logistic Phase 2”
 - •	Winner JDI class A “Pengaturan Closing Time untuk Reduce extra cost from 5604 USD/MT to 5225 USD/MT Dengan Early Stacking Support KPI Logistic”
+- •	Winner JDI class A “System down solution with Auto Summary Delivery Settings using Tableu to Support Pindo Delivery”
 - •	Winner JDI class A “Minimize Extra Costs By Optimize Shipment To Support Delivery Pindo Deli” 
+- •	Winner JDI class A “Auto Early Detection & Intervention Dashboard for Shipment Excellence to Support KPI OTIF Shipment”
+- •	Winner JDI class A “Meningkatkan Produktifitas Karyawan Departement Logistic dalam Transfer Knowladge Antar Sectin Dengan Cara Establih SLP (Smart Logistic Program) Support Potensial Benefit Departement”
+- •	Winner JDI class A “Strategic Ocean Freight Impact Report 2026: Risiko, Tren, dan Rekomendasi Bisnis untuk Perusahaan”
 - •	Winner JDI class A “Shipment Evenness Improvement through Power BI Daily Monitoring”
+
+
 
