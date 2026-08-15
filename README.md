@@ -35,7 +35,6 @@ A long-term learner and award-winning professional passionate about solving comp
 - •	Export Container Governance: Oversee and audit export contract data and addendums in SAP, ensuring strict process control and policy compliance across weekly addendum summaries and monthly Drewry Reports.
 - •	Market Intelligence Oversight: Monitor global shipping trends, governing the preparation of Friday market readings and strategic Market Outlooks to guide leadership decisions in MBOS and Business Review (BR) sessions.
 - •	Vendor Cost Control: Standardize and supervise the verification of liner local charges from external vendors, preventing cost leakage and ensuring alignment with approved corporate rates.
-- •	Import Procurement Oversight: Govern the execution of Purchase Requests to the Strategic Procurement Department (SPD) and monitor the operational flow of Liner Service Distribution (LSD).
 - •	Proposal Audit & Validation: Audit and validate Container Freight Agreement System (CFAS) and addendum proposals, while strategically controlling feeder rates to maintain budget integrity.
 - •	Export Pre-Shipment Control: Manage and enforce compliance in pre-shipment documentation workflows (including V-Legal, PEB, and VGM registration tracking), mitigating operational risks and customs clearance delays.
 - •	Process Improvement Implementation: Analyze, design, and implement business process improvements to increase operational efficiency, maximize productivity, and eliminate manual bottlenecks.
